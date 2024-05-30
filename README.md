@@ -79,7 +79,7 @@ using SQL and Python. Here are the key learnings and techniques that I have mast
 These insights and techniques reflect my continuous growth and understanding of SQL and Python, enabling effective data handling and manipulation across diverse datasets.
 
 
-
+All DATASETS LINK [HERE](https://github.com/arun-iiests/SQL-CASE-STUDIES_DATASETS)
 
 
 
