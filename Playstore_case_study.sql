@@ -226,24 +226,3 @@ DELIMITER ;
 
 call checking('business')
 
--- 10. what is duration time and fetch time.
-
-
--- Duration Time :- Duration time is how long  it takes system to completely understand the instructions given  from start to end  in proper order  and way.
--- Fetch Time :- Once the instructions are completed , fetch ttime is like the time it takes for  the system to hand back the results, it depend on how quickly  ths system
-                -- can find  and bring back what you asked for.
-                
--- if query is simple  and have  to show large valume of data, fetch time will be large, If query is complex duration time will be large.
-
-
-/*EXAMPLE
-Duration Time: Imagine you type in your search query, such as "fiction books," and hit enter. The duration time is the period it takes for the system to process your 
-request from the moment you hit enter until it comprehensively understands what you're asking for and how to execute it. This includes parsing your query, 
-analyzing keywords, and preparing to fetch the relevant data.
-
-Fetch Time: Once the system has fully understood your request, it begins fetching the results. Fetch time refers to the time it takes for the system to 
-retrieve and present the search results back to you.
-
-For instance, if your query is straightforward but requires fetching a large volume of data (like all fiction books in the library), the fetch time may be
- prolonged as the system sifts through extensive records to compile the results. Conversely, if your query is complex, involving multiple criteria or parameters,
- the duration time might be longer as the system processes the intricacies of your request before initiating the fetch process.*/
